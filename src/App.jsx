@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Content from "./pages/Content";
@@ -8,20 +7,22 @@ import Menu from "./pages/Menu";
 import Cart from "./pages/Cart";
 import { Route, Routes } from "react-router-dom";
 import { CartProvider } from "./context/cartContext";
+
 function App() {
   return (
     <>
       <CartProvider>
-        <Navbar></Navbar>
+        <Navbar />
+
         <Routes>
-          <Route path="/" element={<Content></Content>}></Route>
-          <Route path="/about" element={<About></About>}></Route>
-          <Route path="/menu" element={<Menu></Menu>}></Route>
-          <Route path="/cart" element={<Cart></Cart>}></Route>
+          <Route path="/" element={<Content />} />
+          <Route path="about" element={<About />} />
+          <Route path="menu" element={<Menu />} />
+          <Route path="cart" element={<Cart />} />
         </Routes>
       </CartProvider>
 
-      <Footer></Footer>
+      <Footer />
     </>
   );
 }
