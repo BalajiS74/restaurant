@@ -1,0 +1,123 @@
+{
+  "signaturedishes": {
+    "data": [
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60101",
+        "name": "Butter Chicken",
+        "description": "Creamy tomato-based chicken curry loved across India.",
+        "price": "12.99",
+        "image": "https://media.istockphoto.com/id/2185257273/photo/indian-curry-tikka-masala-chicken-lamb-mutton-rogan-josh-with-rice-and-naan-bread-dark.webp?a=1&b=1&s=612x612&w=0&k=20&c=UUcFWotW2prUYu4oHQpsWPUcjqqEcNf_OIRKEnRHWTw="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60102",
+        "name": "Paneer Tikka",
+        "description": "Grilled cottage cheese cubes marinated in spicy yogurt mix.",
+        "price": "9.99",
+        "image": "https://media.istockphoto.com/id/1267019739/photo/close-look-at-delicious-and-freshly-cooked-paneer-tikka-grilled-with-onions-and-bell-pepper.webp?a=1&b=1&s=612x612&w=0&k=20&c=1QghxNcMoJ_pNQTzDVecRwXiguZ0fyU18zKhBXcZbEQ="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60103",
+        "name": "Hyderabadi Biryani",
+        "description": "Fragrant basmati rice with marinated meat and spices.",
+        "price": "14.99",
+        "image": "https://media.istockphoto.com/id/1410130688/photo/mutton-biryani-served-in-a-golden-dish-isolated-on-dark-background-side-view-indian-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=dgx9Uk9HkGNK3aNMp4OJgKHyV67Jmt0Eg2lJ7t8dOJg="
+      }
+    ]
+  },
+  "breckfast": {
+    "data": [
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60104",
+        "name": "Idli Sambar",
+        "description": "Steamed rice cakes served with spicy lentil soup.",
+        "price": "4.99",
+        "image": "https://media.istockphoto.com/id/1424489174/photo/idly-sambar-or-idli-with-sambhar-and-green-red-chutney-popular-south-indian-breakfast.webp?a=1&b=1&s=612x612&w=0&k=20&c=PVwUqQGw155iEczXtDG300_RnRBfvfojEKO10HmRxls="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60105",
+        "name": "Masala Dosa",
+        "description": "Crispy rice crepe filled with spiced mashed potatoes.",
+        "price": "5.49",
+        "image": "https://media.istockphoto.com/id/942682776/photo/masala-dosa-indian-breakfast-crepes-with-spicy-potato-filling.webp?a=1&b=1&s=612x612&w=0&k=20&c=LM5nGfClVFYZDlyqqvUCahI6CJ1vN4DuggMIsbcYlBo="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60106",
+        "name": "Aloo Paratha",
+        "description": "Stuffed flatbread served with curd and pickle.",
+        "price": "6.49",
+        "image": "https://media.istockphoto.com/id/1279134709/photo/image-of-metal-tray-with-aloo-paratha-pile-topped-with-red-onion-rings-and-sprinkle-of.webp?a=1&b=1&s=612x612&w=0&k=20&c=BqI3olbZz2Ljg3LaEiLWYq2vQ8wfORCYdPrwKmJ2WbU="
+      }
+    ]
+  },
+  "lunch": {
+    "data": [
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60107",
+        "name": "Veg Thali",
+        "description": "Assorted vegetarian dishes served on a platter.",
+        "price": "11.00",
+        "image": "https://media.istockphoto.com/id/1158623408/photo/indian-hindu-veg-thali-food-platter-selective-focus.webp?a=1&b=1&s=612x612&w=0&k=20&c=WOCrpfQJRlyY9W84K4iAaIfJVCWbIs_UroFYKK9y1Qg="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60108",
+        "name": "Chicken Curry",
+        "description": "Spicy chicken curry served with rice or roti.",
+        "price": "13.50",
+        "image": "https://media.istockphoto.com/id/1285118162/photo/indian-chicken-curry-directly-above-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=Se6E37vu2JyhoFKQ3ilpFYSFVV538z-QEhf2WdqMwgs="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f60109",
+        "name": "Fish Fry",
+        "description": "Crispy fried fish served with lemon and onions.",
+        "price": "15.00",
+        "image": "https://media.istockphoto.com/id/1292615420/photo/delicious-crispy-king-fish-fry-also-known-as-indian-surmai-served-with-onion-and-lemon-placed.webp?a=1&b=1&s=612x612&w=0&k=20&c=8E-336INveIRV-5TmYap3Yl9IWVPCorHJHQU6oX9XSA="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010a",
+        "name": "Butter Chicken",
+        "description": "Creamy tomato-based chicken curry loved across India.",
+        "price": "12.99",
+        "image": "https://media.istockphoto.com/id/2185257273/photo/indian-curry-tikka-masala-chicken-lamb-mutton-rogan-josh-with-rice-and-naan-bread-dark.webp?a=1&b=1&s=612x612&w=0&k=20&c=UUcFWotW2prUYu4oHQpsWPUcjqqEcNf_OIRKEnRHWTw="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010b",
+        "name": "Paneer Tikka",
+        "description": "Grilled cottage cheese cubes marinated in spicy yogurt mix.",
+        "price": "9.99",
+        "image": "https://media.istockphoto.com/id/1267019739/photo/close-look-at-delicious-and-freshly-cooked-paneer-tikka-grilled-with-onions-and-bell-pepper.webp?a=1&b=1&s=612x612&w=0&k=20&c=1QghxNcMoJ_pNQTzDVecRwXiguZ0fyU18zKhBXcZbEQ="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010c",
+        "name": "Hyderabadi Biryani",
+        "description": "Fragrant basmati rice with marinated meat and spices.",
+        "price": "14.99",
+        "image": "https://media.istockphoto.com/id/1410130688/photo/mutton-biryani-served-in-a-golden-dish-isolated-on-dark-background-side-view-indian-food.webp?a=1&b=1&s=612x612&w=0&k=20&c=dgx9Uk9HkGNK3aNMp4OJgKHyV67Jmt0Eg2lJ7t8dOJg="
+      }
+    ]
+  },
+  "dinner": {
+    "data": [
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010d",
+        "name": "Chapati & Sabzi",
+        "description": "Soft flatbread with seasonal vegetable curry.",
+        "price": "8.00",
+        "image": "https://media.istockphoto.com/id/1320485315/photo/indian-style-masala-bhindi-or-okra-also-known-as-ladyfinger-alu-bhindi-sabzi-chapati.webp?a=1&b=1&s=612x612&w=0&k=20&c=RLMdX1U6gf4k6X-MzsryBCjNN8V0MjNG4U9CTHHdqeY="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010e",
+        "name": "Egg Curry",
+        "description": "Boiled eggs simmered in spicy curry sauce.",
+        "price": "9.00",
+        "image": "https://media.istockphoto.com/id/1185235293/photo/boiled-curry-eggs-in-spicy-sauce-close-up-in-a-plate-vertical-top-view.webp?a=1&b=1&s=612x612&w=0&k=20&c=Y0BxeiDd_CyKPJwc4-6GsE5XqCWSGzHNjQeZp11-tUw="
+      },
+      {
+        "id": "64d0e7f4a1b2c3d4e5f6010f",
+        "name": "Jeera Rice & Dal",
+        "description": "Cumin-flavored rice served with yellow lentils.",
+        "price": "7.50",
+        "image": "https://media.istockphoto.com/id/1205482227/photo/indian-traditional-dal-fry-and-jeera-rice-also-known-as-dal-chawal-cooked-lentils-served-with.webp?a=1&b=1&s=612x612&w=0&k=20&c=2tI4k1UE92zo6VF0eEf8sjf1ALUZHOYD-T501A3gDIQ="
+      }
+    ]
+  }
+}
