@@ -1,0 +1,6 @@
+#navbarNav > ul > li > a{
+    font-size: large;
+}
+#navbarNav > ul > li > .active{
+    color: red;
+}
