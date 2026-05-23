@@ -15,14 +15,14 @@ function App() {
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<Content />} />
+          <Route index element={<Content />} />
           <Route path="about" element={<About />} />
           <Route path="menu" element={<Menu />} />
           <Route path="cart" element={<Cart />} />
         </Routes>
-      </CartProvider>
 
-      <Footer />
+        <Footer />
+      </CartProvider>
     </>
   );
 }
